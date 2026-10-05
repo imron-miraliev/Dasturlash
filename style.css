@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+h1 {
+  background-color: rgba(49, 19, 19, 1);
+  width: 636px;
+  color: white;
+  text-align: center;
+  margin: 22px auto 61px;
+  font-size: 64px;
+  font-weight: 700;
+}
+body {
+  background-color: rgb(31, 79, 31);
+}
+.ota {
+  width: 1000px;
+  background-color: black;
+  padding: 39px 52px 51px;
+  margin: 0 auto;
+  border: 10px solid red;
+}
+.bola {
+  background-color: rgba(31, 232, 183, 1);
+  padding: 54px 40px;
+  margin-top: 10px;
+}
+p {
+  font-size: 24px;
+}
